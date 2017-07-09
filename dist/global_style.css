@@ -1,0 +1,19 @@
+body{
+	background-color: #f7f7f4;
+}
+
+.hidden{
+	display: none;
+}
+
+#posts{
+	width: 600px;
+	margin: 0 auto;
+}
+
+a, a:visited{
+	color: #0bb8f2;
+}
+a:hover{
+	text-decoration: none;
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>comment-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="In-channel-web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="In-channel-Channel-detail-v2" transform="translate(-710.000000, -913.000000)" fill="#7390A3">
+            <g id="Post1" transform="translate(427.000000, 209.000000)">
+                <g id="Group" transform="translate(23.000000, 704.000000)">
+                    <path d="M277.66682,16.7742746 L273.333333,16.7742746 C272.290362,16.7742746 271.145476,20 270.000118,20 C268.862545,20 267.724973,16.7742746 266.687663,16.7742746 L262.333416,16.7742746 C261.044623,16.7742746 260,15.7633387 260,14.516107 L260,2.25793931 C260,1.01093583 261.044623,0 262.333416,0 L277.66682,0 C278.955377,0 280,1.01093583 280,2.25793931 L280,14.516107 C280,15.7633387 278.955377,16.7742746 277.66682,16.7742746 L277.66682,16.7742746 L277.66682,16.7742746 Z" id="comment-icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
